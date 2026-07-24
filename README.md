@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Glend Dale Ferrer</h1>
 
 <p align="center">
