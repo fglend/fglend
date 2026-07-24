@@ -130,10 +130,16 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=fglend&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=fglend&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+      <img height="165" src="https://github-stats-extended.vercel.app/api?username=fglend&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub stats" />
+    </picture>
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fglend&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=fglend&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fglend&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
+    </picture>
   </a>
 </p>
 
