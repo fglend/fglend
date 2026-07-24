@@ -13,7 +13,7 @@
   <a href="https://packagist.org/users/gurento/packages/">
     <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist" />
   </a>
-  <a href="https://github.com/sponsors/gurento">
+  <a href="https://github.com/sponsors/fglend">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
 </p>
