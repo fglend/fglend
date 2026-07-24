@@ -9,7 +9,7 @@
     • Double-check the repo links point at your actual repositories.
 -->
 
-<h1 align="center">Hi, I'm Glend Dale Ferrer 👋</h1>
+<h1 align="center">Hi, I'm Glend Dale Ferrer</h1>
 
 <p align="center">
   Full-Stack Software Engineer · Researcher · Open Source Contributor — from the Philippines 🇵🇭
@@ -31,13 +31,13 @@
 
 ---
 
-### 👨‍💻 About
+### About
 
 I'm a Full-Stack Software Engineer, researcher, and open source contributor from the
 Philippines. I like turning hard problems into scalable web applications, dependable
 distributed systems, and AI-powered tools — and sharing the reusable pieces as open source.
 
-### 🚀 What I do
+### What I do
 
 - 💻 **Web apps** — build modern applications with Laravel, Filament, Livewire, Vue.js, and PostgreSQL
 - ⚡ **Event-driven systems** — design pipelines with Apache Kafka, Redis, RabbitMQ, and Supervisor
@@ -47,7 +47,7 @@ distributed systems, and AI-powered tools — and sharing the reusable pieces as
 
 ---
 
-## 🧩 Open source plugin for Laravel Filament
+## Open source plugin for Laravel Filament
 
 A focused suite for producing, consuming, and operating Kafka topics inside Laravel apps — configured through the panel, no per-project boilerplate.
 
@@ -100,7 +100,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <table>
   <tr>
@@ -137,7 +137,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurento&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
