@@ -129,8 +129,8 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurento&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurento&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fglend&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fglend&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 <p align="center"><i>Code is my craft, and GitHub is my gallery.</i></p>
