@@ -1,13 +1,4 @@
-<!--
-  GitHub profile README for @gurento
-  This file must live in a repository named `gurento` (same as your username),
-  at its root, for GitHub to render it on your profile page.
 
-  TODO before publishing:
-    • Replace "Your Name" below with your real display name.
-    • Confirm the GitHub Sponsors username in the Sponsor badge.
-    • Double-check the repo links point at your actual repositories.
--->
 
 <h1 align="center">Hi, I'm Glend Dale Ferrer</h1>
 
@@ -57,7 +48,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
       <h3><a href="https://github.com/gurento/kafka-consumer">Kafka Consumer</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-consumer?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
-        <img src="https://img.shields.io/github/stars/gurento/kafka-consumer?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
+        <img src="https://img.shields.io/github/stars/fglend/kafka-consumer?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
       </p>
       <p>
         Laravel Kafka consumer module: topic-to-model mapping, field &amp;
@@ -69,7 +60,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
       <h3><a href="https://filamentphp.com/plugins/gurento-kafka-consumer">Kafka Consumer — Filament</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-consumer-filament?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
-        <img src="https://img.shields.io/github/stars/gurento/kafka-consumer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
+        <img src="https://img.shields.io/github/stars/fglend/kafka-consumer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
         <img src="https://img.shields.io/badge/health-100%2F100-3FB950?style=flat-square" alt="health 100/100" />
       </p>
       <p>
@@ -84,7 +75,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
       <h3><a href="https://github.com/gurento/kafka-producer-filament">Kafka Producer — Filament</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-producer-filament?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
-        <img src="https://img.shields.io/github/stars/gurento/kafka-producer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
+        <img src="https://img.shields.io/github/stars/fglend/kafka-producer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
         <img src="https://img.shields.io/badge/new-3FB950?style=flat-square" alt="new" />
       </p>
       <p>
