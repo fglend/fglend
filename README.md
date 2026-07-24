@@ -32,11 +32,11 @@ distributed systems, and AI-powered tools — and sharing the reusable pieces as
 
 ### What I do
 
-- 💻 **Web apps** — build modern applications with Laravel, Filament, Livewire, Vue.js, and PostgreSQL
-- ⚡ **Event-driven systems** — design pipelines with Apache Kafka, Redis, RabbitMQ, and Supervisor
-- 🤖 **Applied AI** — explore RAG, computer vision, and large language models for real products
-- 🖥️ **Infrastructure** — deploy and operate reliable Linux servers and CI/CD pipelines
-- 📊 **Data-driven solutions** — deliver systems for research, government, and enterprise use
+- **Web apps** — build modern applications with Laravel, Filament, Livewire, Vue.js, and PostgreSQL
+- **Event-driven systems** — design pipelines with Apache Kafka, Redis, RabbitMQ, and Supervisor
+- **Applied AI** — explore RAG, computer vision, and large language models for real products
+- **Infrastructure** — deploy and operate reliable Linux servers and CI/CD pipelines
+- **Data-driven solutions** — deliver systems for research, government, and enterprise use
 
 ---
 
