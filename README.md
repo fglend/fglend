@@ -47,7 +47,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gurento/kafka-consumer">Kafka Consumer</a></h3>
+      <h3><a href="https://github.com/fglend/kafka-consumer">Kafka Consumer</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-consumer?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
         <img src="https://img.shields.io/github/stars/fglend/kafka-consumer?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
@@ -74,7 +74,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gurento/kafka-producer-filament">Kafka Producer — Filament</a></h3>
+      <h3><a href="https://github.com/fglend/kafka-producer-filament">Kafka Producer — Filament</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-producer-filament?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
         <img src="https://img.shields.io/github/stars/fglend/kafka-producer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
