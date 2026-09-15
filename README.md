@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Packagist%20downloads-180%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="Total Packagist downloads" />
+  <img src="https://img.shields.io/badge/Packagist%20downloads-500%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="Total Packagist downloads" />
 </p>
 
 ---
