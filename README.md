@@ -16,10 +16,15 @@
   <a href="https://github.com/sponsors/fglend">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
+  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Packagist%20downloads-180%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="Total Packagist downloads" />
+  <img src="https://hub.xerj.org/contributors/fglend/badge.svg" alt="Total Packagist downloads" />
+
+<a href="https://hub.xerj.org/contributors/fglend">
+   <img src="https://img.shields.io/badge/Packagist%20downloads-180%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="XERJ" />
+   </a>
 </p>
 
 ---
