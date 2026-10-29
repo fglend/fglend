@@ -20,11 +20,10 @@
 </p>
 
 <p align="center">
-  <img src="https://hub.xerj.org/contributors/fglend/badge.svg" alt="Total Packagist downloads" />
-
-<a href="https://hub.xerj.org/contributors/fglend">
-   <img src="https://img.shields.io/badge/Packagist%20downloads-180%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="XERJ" />
-   </a>
+  <img src="https://img.shields.io/badge/Packagist%20downloads-500%2B-F28D1A?style=flat&logo=packagist&logoColor=white" alt="Total Packagist downloads" />
+  <a href="https://hub.xerj.org/contributors/fglend">
+   <img src="https://hub.xerj.org/contributors/fglend/badge.svg" alt="XERJ" />
+  </a>
 </p>
 
 ---
@@ -37,11 +36,11 @@ distributed systems, and AI-powered tools — and sharing the reusable pieces as
 
 ### What I do
 
-- 💻 **Web apps** — build modern applications with Laravel, Filament, Livewire, Vue.js, and PostgreSQL
-- ⚡ **Event-driven systems** — design pipelines with Apache Kafka, Redis, RabbitMQ, and Supervisor
-- 🤖 **Applied AI** — explore RAG, computer vision, and large language models for real products
-- 🖥️ **Infrastructure** — deploy and operate reliable Linux servers and CI/CD pipelines
-- 📊 **Data-driven solutions** — deliver systems for research, government, and enterprise use
+- **Web apps** — build modern applications with Laravel, Filament, Livewire, Vue.js, and PostgreSQL
+- **Event-driven systems** — design pipelines with Apache Kafka, Redis, RabbitMQ, and Supervisor
+- **Applied AI** — explore RAG, computer vision, and large language models for real products
+- **Infrastructure** — deploy and operate reliable Linux servers and CI/CD pipelines
+- **Data-driven solutions** — deliver systems for research, government, and enterprise use
 
 ---
 
@@ -52,7 +51,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gurento/kafka-consumer">Kafka Consumer</a></h3>
+      <h3><a href="https://github.com/fglend/kafka-consumer">Kafka Consumer</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-consumer?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
         <img src="https://img.shields.io/github/stars/fglend/kafka-consumer?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
@@ -79,7 +78,7 @@ A focused suite for producing, consuming, and operating Kafka topics inside Lara
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/gurento/kafka-producer-filament">Kafka Producer — Filament</a></h3>
+      <h3><a href="https://github.com/fglend/kafka-producer-filament">Kafka Producer — Filament</a></h3>
       <p>
         <img src="https://img.shields.io/packagist/dt/gurento/kafka-producer-filament?style=flat-square&logo=packagist&logoColor=white&label=downloads&color=F28D1A" alt="downloads" />
         <img src="https://img.shields.io/github/stars/fglend/kafka-producer-filament?style=flat-square&logo=github&label=stars&color=1F2328" alt="stars" />
